@@ -1,0 +1,3 @@
+Criar um bot assistente que vai ler uma planilha do excel e vai jogar os dados num local da tela que tem um formulário
+que joga no sistema.
+Tudo isso achando o X e Y da tela do monitor
